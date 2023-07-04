@@ -5,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Math Magicians\] ](#-math-magicians-)
+- [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Math Magicians ] <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
-**[Math Magicians]** is my first react project.
+**Math Magicians** is my first react project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,8 +64,8 @@
 
 ### Key Features <a name="key-features"></a>
 
--  **[React-based project]**
--  **[Responsive]**
+-  **React-based project**
+-  **Responsive**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -129,7 +129,7 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 
 ### Install
 
-- Run the following command in the root directory of the project to install all dependecies.
+- Run the following command in the root directory of the project to install all dependencies.
 
 ```sh
   npm install
@@ -180,10 +180,9 @@ npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Unit test]**
-- [ ] **[Responsive]**
-- [ ] **[Deployment]**
-- [ ] **[Use developer local storage]**
+- [ ] **Unit test**
+- [ ] **Responsive**
+- [ ] **Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,9 +208,7 @@ If you like this project, kindly drop a start for the [repository](https://githu
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-**I would like to thank the following individuals and organizations for their contribution to this project.**
-
-- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided. The supportive community, dedicated mentors, and remote collaboration opportunities have enhanced my technical skills and prepared me for real-world projects. I extend my appreciation to the mentors and staff members for their guidance and support. The friendships and knowledge sharing within the Microverse community have made this journey truly rewarding.
+**I would like to thank my family and Microvese for their support.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

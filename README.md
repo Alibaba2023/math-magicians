@@ -146,13 +146,13 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 
 ### Run tests
 
-1. Stylelint
+1. ☑ Stylelint
 
 ```
 npx stylelint "**/*.{css,scss}"
 ```
 
-2. ESLint ☑
+2. ☑ ESLint 
 
 ```
 npx eslint .
@@ -207,6 +207,7 @@ If you like this project, kindly drop a start for the [repository](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 
 **I would like to thank my family and Microvese for their support.**
 

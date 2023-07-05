@@ -1,0 +1,46 @@
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input-result {
+  width: 100%;
+  padding: 1.6rem 5px;
+  border: 1px solid #ddd;
+  background-color: #5f5f5f;
+  text-align: right;
+  font-size: 1.6rem;
+  color: #fff;
+  outline: none;
+}
+
+.numbers-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1px;
+}
+
+.calculator-container {
+  width: 500px;
+  margin: 40px auto;
+}
+
+.number {
+  width: 100%;
+  padding: 1.6rem 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.number:nth-child(4n),
+.number:last-child {
+  background-color: rgb(248, 151, 23);
+  color: #fff;
+}
+
+.number:nth-child(17) {
+  grid-column: 1 / span 2;
+}

@@ -33,14 +33,16 @@
   border: 1px solid #ddd;
   text-align: center;
   font-size: 1.8rem;
+  background-color: #fff;
+  color: #000;
 }
 
-.number:nth-child(4n),
-.number:last-child {
+.numbers-container > li:nth-child(4n) .number,
+.numbers-container > li:last-child .number {
   background-color: rgb(248, 151, 23);
   color: #fff;
 }
 
-.number:nth-child(17) {
+.numbers-container > li:nth-child(17) {
   grid-column: 1 / span 2;
 }

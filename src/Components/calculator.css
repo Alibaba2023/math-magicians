@@ -23,7 +23,8 @@
 }
 
 .calculator-container {
-  width: 1200px;
+  width: 100%;
+  max-width: 1200px;
   margin: 1rem auto;
 }
 
@@ -45,4 +46,16 @@
 
 .numbers-container > li:nth-child(17) {
   grid-column: 1 / span 2;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+  .calculator-container {
+    padding: 0 1rem;
+  }
+
+  .number {
+    font-size: 1.4rem;
+  }
 }

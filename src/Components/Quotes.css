@@ -1,0 +1,16 @@
+.quote-container {
+  background-color: rgb(255, 136, 0);
+  padding: 25px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quote-text {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}

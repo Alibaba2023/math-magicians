@@ -1,6 +1,6 @@
 import './style.css';
 
-function Routers() {
+function Header() {
   return (
     <div className="container-routers">
       <nav className="header-items">
@@ -15,4 +15,4 @@ function Routers() {
   );
 }
 
-export default Routers;
+export default Header;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component renders correctly 1`] = `
+<div
+  class="container-routers"
+>
+  <nav
+    class="header-items"
+  >
+    <a
+      class="header-title"
+      href="/"
+    >
+      Math Magicians
+    </a>
+    <div
+      class="navigation-items-box"
+    >
+      <a
+        class="navigation-items"
+        href="/"
+      >
+        Home
+      </a>
+      <a
+        class="navigation-items"
+        href="/calculator"
+      >
+        Calculator
+      </a>
+      <a
+        class="navigation-items"
+        href="/Quotes"
+      >
+        Quotes
+      </a>
+    </div>
+  </nav>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component renders correctly 1`] = `
+<div
+  class="home-container"
+>
+  <p
+    class="home-description"
+  >
+    "Introducing a sleek and user-friendly web app that combines the power of a calculator with the inspiration of quotes. Harnessing real-time data from an API, this app effortlessly performs calculations while delivering motivational quotes, making number-crunching a delightful and uplifting experience. Get ready to calculate and be inspired in one place! "
+  </p>
+</div>
+`;
